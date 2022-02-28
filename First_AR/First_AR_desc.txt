@@ -1,0 +1,1 @@
+First AR using tutorial Simple character placement and creating some textures and animation
